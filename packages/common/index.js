@@ -1,3 +1,3 @@
 module.exports = () => {
-    console.log('hello from common14');
+    console.log('hello from common2');
 }
